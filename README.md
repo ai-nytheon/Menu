@@ -1,7 +1,7 @@
 
 # Nytheon AI — The Future of Intelligence
 
-[![Visit Nytheon AI](https://img.shields.io/badge/🌐_Visit_Nytheon_AI-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nytheon.ai)
+[![Visit Nytheon AI](https://img.shields.io/badge/🌐_Visit_Nytheon_AI-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nytheon-ai.online/)
 
 > 💡 **Tip:** Nytheon AI is cloud-based — no download needed. Explore powerful tools for data analysis, reasoning, and automation directly in your browser.
 
